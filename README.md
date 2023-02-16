@@ -1,7 +1,10 @@
 # Desafio DDD - OrderRepository
 
-Implementar os métodos da interface OrderRepositoryInterface
+Finalizar implementação dos métodos da interface OrderRepositoryInterface
 
+- update
+- find
+- findAll
 
 ## Como usar
 
@@ -15,5 +18,3 @@ git clone https://github.com/virb30/curso-fc-desafio-ddd-01.git
 npm install
 npm test
 ```
-
-
